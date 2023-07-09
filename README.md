@@ -1,3 +1,7 @@
+## Link al curso completo de Javascript en Youtube:
+[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
+
+
 # Tutorial de Aplicación de Venta de Viajes en JavaScript
 
 Link para ver resultado: [VENTA VIAJES FINALIZADO](https://venta-viajes-curso-javascript.netlify.app/)
